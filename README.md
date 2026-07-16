@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currentl# 👋 Hi, I'm Prasad M K
+- 🔭 I’m currentl
 
 ### 🚀 Java Backend Developer | Spring Boot | Microservices | DevOps Enthusiast
 
